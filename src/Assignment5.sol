@@ -24,7 +24,7 @@ contract Assignment5 {
     // Initialize `isActive` to true
     constructor() {
         // Fill in the logic
-        isActive = True;
+        isActive = true;
     }
 
     // Function to increment the counter
